@@ -50,6 +50,8 @@ for word in test_words:
   print(f"Word: {word}, Lemma: {lemma}")
 ```
 
-```Word: ڪرڻ, Lemma: ڪر
+```
+Word: ڪرڻ, Lemma: ڪر
 Word: اڪثر, Lemma: اڪثر
 Word: کائيندو, Lemma: ناه
+```
